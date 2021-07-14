@@ -78,7 +78,7 @@
 .menu-branding .portrait {
       width: 180px;
       height: 180px;
-      margin-left: 20px;
+      margin-left: 10px;
       margin-top: 20px;
       background: url("../img/portrait.jpg");
       border-radius: 50%;
@@ -169,7 +169,7 @@
 .menu-branding .portrait {
   width: 180px;
   height: 180px;
-  margin-left: 30px;
+  margin-left: 10px;
   margin-top: 100px; 
   background: url("../img/portrait.jpg");
   border-radius: 50%;
