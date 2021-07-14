@@ -131,7 +131,7 @@
     <li class="nav-item"><a href="#CV" class="nav-link">CV</a></li>     
         <li class="nav-item">
           <a href="http://twitter.com/wegdamm/" target="_new" class="nav-link">
-            <i class="fa fa-twitter" style="font-size:16px"></i>
+            <i class="fa fa-twitter" style="font-size:32px"></i>
           </a>
         </li>
       </ul>
