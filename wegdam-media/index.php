@@ -94,62 +94,58 @@
     <script src="js/js-9544c.js" type="text/javascript"></script>
 </head>
 <body id="page-top">
-<header>  
- <!-- <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
-    <div class="container-fluid">
-        <div class="navbar-header">
-            <a style="border:0;" class="navbar-toggle collapsed" data-toggle="collapse"
-                    data-target="#bs-example-navbar-collapse-1">
-                <span class="sr-only">Toggle navigation</span><i style="font-size:30px;" class="fa fa-bars"></i>
-            </a>
-            <div class="col-sm">
-                <a class="navbar-brand page-scroll" href="#page-top">
-                    <img alt="Wegdam Media Services" class="img-fluid float-left rounded" width="50%" src="img/wegdam-media.png"></a>
-            </div>
-        </div>   
-    </div> -->
+    <header>  
+        <!-- <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <a style="border:0;" class="navbar-toggle collapsed" data-toggle="collapse"
+                            data-target="#bs-example-navbar-collapse-1">
+                        <span class="sr-only">Toggle navigation</span><i style="font-size:30px;" class="fa fa-bars"></i>
+                    </a>
+                    <div class="col-sm">
+                        <a class="navbar-brand page-scroll" href="#page-top">
+                            <img alt="Wegdam Media Services" class="img-fluid float-left rounded" width="50%" src="img/wegdam-media.png"></a>
+                    </div>
+                </div>   
+            </div> -->    
     <div class="menu-btn">
           <div class="btn-line"></div>
              <div class="btn-line"></div>
         <div class="btn-line"></div>
     </div>
 
-<nav class="menu" style="z-index: 9999;">      
-    <div class="menu-branding">
+    <nav class="menu" style="z-index: 9999;">      
+        <div class="menu-branding">
             <div class="portrait"></div>
-     </div>
-    <!-- <div class="container-fluid">
-        <div class="navbar-header"> 
-            <div class="col-sm">
-                 <a class="navbar-brand page-scroll" href="#page-top">
-                <img alt="Wegdam Media Services" class="img-fluid float-left rounded" width="50%" src="img/wegdam-media.png"></a>
-     </div> -->
-            
- <ul class="menu-nav">       
-    <li class="nav-item current"><a href="#over" class="nav-link">Sander Wegdam</a></li>
-    <li class="nav-item"><a href="#diensten" class="nav-link">Services</a></li>
-    <li class="nav-item"><a href="#CV" class="nav-link">CV</a></li>     
-        <li class="nav-item">
-          <a href="http://twitter.com/wegdamm/" target="_new" class="nav-link">
-            <i class="fa fa-twitter" style="font-size:32px"></i>
-          </a>
-        </li>
-      </ul>
-      </div>
-    </div>
-</nav>
+        </div>
+        
+        <ul class="menu-nav">       
+            <li class="nav-item current"><a href="#over" class="nav-link">Sander Wegdam</a></li>
+            <li class="nav-item"><a href="#diensten" class="nav-link">Services</a></li>
+            <li class="nav-item"><a href="#CV" class="nav-link">CV</a></li>     
+            <li class="nav-item">
+            <a href="http://twitter.com/wegdamm/" target="_new" class="nav-link">
+                <i class="fa fa-twitter" style="font-size:32px"></i>
+            </a>
+            </li>
+        </ul>        
+    </nav>
 
     <div class="header-content">
-        <div class="header-content-inner">            
+        <div class="header-content-inner">
             <div class="animatedParent" data-appear-top-offset="40" style="height:700px; margin-top:-25px;">
-							<div class="noo-animation animated fadeInDown" style=";-webkit-animation-duration:1000ms;animation-duration:1000ms; -webkit-animation-delay:0ms;animation-delay:0ms;">							
-									<h3 style="top: 700px; position: relative;" >
-                                        <span style="color: #ffff; text-shadow: 1px 1px #ccc; background: rgba(0, 0, 0, 0.1); border-radius: 20px 20px; padding: 20px;
-                                         font-weight: 300; line-height: 60px;">Een website naargelang uw eisen</span>
-                                    </h3>                              
-                            </div>
-                        </div>
-            <a href="#over" style="margin-top: 120px;" class="btn btn-default btn-xl page-scroll"><i class="glyphicon glyphicon-chevron-down" aria-hidden="true"></i></a>
+				<div class="noo-animation animated fadeInDown" style=";-webkit-animation-duration:1000ms;animation-duration:1000ms; -webkit-animation-delay:0ms;animation-delay:0ms;">							
+					<h3 style="top: 700px; position: relative;" >
+                        <span style="color: #ffff; text-shadow: 1px 1px #ccc; background: rgba(0, 0, 0, 0.1); border-radius: 20px 20px; padding: 20px;
+                              font-weight: 300; line-height: 60px;">Een website naargelang uw eisen</span>
+                    </h3>                              
+                </div>
+                <div class="col-sm">
+                    <a class="navbar-brand page-scroll" href="#page-top" style="padding-top:0px; margin-top:-120px;">
+                    <img alt="Wegdam Media Services" class="img-fluid float-left rounded" width="50%" src="img/wegdam-media.png"></a>
+                </div>  
+            </div>    
+                <a href="#over" style="margin-top: 120px;" class="btn btn-default btn-xl page-scroll"><i class="glyphicon glyphicon-chevron-down" aria-hidden="true"></i></a>
         </div>
     </div>
 </header>
